@@ -17,7 +17,7 @@ Aplikasi sederhana simulasi kredit mobil (Contract & Installment Management) men
 
 ## 1. Masuk ke folder backend
 ```bash
-cd src-express-be
+cd backend
 ```
 
 ## 2. Install dependencies
@@ -85,7 +85,7 @@ http://localhost:3000
 
 ## 1. Masuk folder frontend
 ```bash
-cd contracts
+cd frontend
 ```
 
 ## 2. Install dependencies
