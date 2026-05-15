@@ -120,13 +120,13 @@ http://localhost:5173
 
 Terminal 1:
 ```bash
-cd src-express-be
+cd backend
 npm run dev
 ```
 
 Terminal 2:
 ```bash
-cd contracts
+cd frontend
 npm run dev
 ```
 
